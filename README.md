@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖%20Anikait%20Singh%20|%20AI%20&%20ML%20Engineer-6a11cb?style=for-the-badge&logo=openai&logoColor=white&labelColor=2575fc" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&width=600&lines=🤖+Anikait+Singh+-+AI+%26+ML+Engineer;🚀+Building+Defense+AI+%7C+Vision+%26+Autonomy;🌐+AR%2FVR+Enthusiast+%7C+Innovator" alt="Typing SVG Banner" />
 </p>
-
-
 
 ---
 
