@@ -1,66 +1,117 @@
-# 👋 Hi, I'm Anikait Singh  
-
-🎯 Passionate **Software Developer & AI/ML Engineer** specializing in computer vision, autonomous systems, and immersive technologies.  
-🚀 I enjoy building solutions at the intersection of **AI, Embedded Systems, and AR/VR**, with experience in both **research and defense applications**.  
-
----
-
-## 👨‍💻 About Me  
-- 💡 Software Developer at **Vir Innovations Pvt. Ltd.**, optimizing AI models (YOLO, SSD, Faster R-CNN) for real-time defense systems.  
-- 🛡️ Former **AI/ML Intern at 610 EME Battalion (MoD)**, worked on *TAIWS* – an AI-based weapon platform improving target detection & decision accuracy.  
-- 🌐 AR/VR Enthusiast – built immersive **Campus Tour VR** project selected for Google Solution Challenge BootCamp.  
-- 🏆 Winner & Finalist in multiple hackathons and conferences including **ICNGCIS 2023 (1st Prize)** and **Smart India Hackathon 2022 (Finalist)**.  
-- 🎓 **B.Tech in CSE (AI/ML)** from MIET Jammu (CGPA 8.58).  
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Hi%20I'm%20Anikait%20Singh%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anikait-singh007)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anikait_v)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anikait7298@gmail.com)  
+## 🌟 About Me  
+
+🎯 **Software Developer | AI/ML Engineer | AR/VR Enthusiast**  
+⚡ Passionate about building **AI-powered defense systems, immersive VR/AR worlds, and intelligent applications**.  
+💡 Skilled in combining **AI, Embedded Systems, and Cloud Technologies** to deliver **impactful real-world solutions**.  
+
+- 💻 Currently: **Software Developer @ Vir Innovations Pvt. Ltd.**  
+- 🛡️ Past: **AI/ML Intern @ 610 EME Battalion (MoD)** → Built *TAIWS* (AI weapon system).  
+- 🎓 Education: **B.Tech in CSE (AI/ML)**, CGPA **8.58**, MIET Jammu.  
+- 🏆 Hackathons & Awards: 1st Prize @ **ICNGCIS 2023**, Smart India Hackathon Finalist.  
+- 🌐 AR/VR Project: *Campus Tour VR* → Selected for **Google Solution Challenge BootCamp 2024**.  
 
 ---
 
-## 💻 Tech Stack  
+## 🔗 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/anikait-singh007"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/anikait_v"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="mailto:anikait7298@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Tech Toolbox  
+
+### 💻 Programming & Tools  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+### 🤖 AI/ML & Data Science  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![CUDA](https://img.shields.io/badge/CUDA-%230076A8.svg?style=for-the-badge&logo=nvidia&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![LangChain](https://img.shields.io/badge/LangChain-%2300BFA6.svg?style=for-the-badge&logo=chainlink&logoColor=white) 
+![LLM](https://img.shields.io/badge/LLM-%23FF007F.svg?style=for-the-badge&logo=openai&logoColor=white)  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-*(and more: Unity, Unreal, Git, LangChain, LLaMA, SQL, Blender, Adobe Suite...)*  
+---
+
+## 🚀 Featured Projects  
+
+### 🔫 TAIWS – AI Weapon Platform  
+> **Tech:** PyTorch · CUDA · OpenCV · Jetson Nano  
+- Developed ML models for **real-time target detection** with 40% faster inference.  
+- Integrated with embedded systems for **autonomous decision-making**.  
+- Achieved **95%+ detection accuracy** in normal and night-vision conditions.  
+
+---
+
+### 🕶️ Immerse.VR – AR/VR Campus Tour  
+> **Tech:** Unreal · Blender · NLP  
+- Built an **interactive VR simulation** with smart NPCs for easy navigation.  
+- Selected for **Google Solution Challenge Regional BootCamp 2024**.  
+
+---
+
+### 📱 Fidentity – Smart India Hackathon Solution  
+> **Tech:** Flutter · Firebase · CNN  
+- Designed a **face-recognition app** with secure authentication.  
+- Reduced login time by **30%** with real-time DB integration.  
 
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=AnikaitOO7&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>  
-![](https://nirzak-streak-stats.vercel.app/?user=AnikaitOO7&theme=transparent&hide_border=false)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaitOO7&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnikaitOO7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AnikaitOO7&theme=tokyonight&hide_border=false" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaitOO7&theme=tokyonight&hide_border=false&layout=compact" height="160"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=AnikaitOO7&theme=transparent&no-frame=false&no-bg=false&margin-w=4)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnikaitOO7&theme=algolia&no-frame=false&margin-w=10&row=1"/>
+</p>
 
 ---
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+## ✍️ Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ---
 
-### 🔝 Top Contributed Repos  
-![](https://github-contributor-stats.vercel.app/api?username=AnikaitOO7&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+## 📈 Profile Visitors  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AnikaitOO7&label=Profile%20Views&color=6&icon=5&pretty=true" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AnikaitOO7&icon=0&color=7)](https://visitcount.itsvg.in)  
-
----
+<!-- Proudly crafted with ❤️ by Anikait Singh -->
