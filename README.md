@@ -1,7 +1,9 @@
 <!-- Profile Banner -->
+<!-- AI/ML Themed Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Hi%20I'm%20Anikait%20Singh%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6a11cb,100:2575fc&text=🤖%20Anikait%20Singh%20|%20AI%20%26%20ML%20Engineer&fontColor=ffffff&fontSize=36&animation=twinkling&fontAlignY=35&desc=Building%20AI%20Defense%20Systems%20%7C%20Vision%20%26%20Autonomy&descAlignY=55&descAlign=50" />
 </p>
+
 
 ---
 
