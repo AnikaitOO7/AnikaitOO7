@@ -57,7 +57,7 @@
 
 ## 🚀 Featured Projects  
 
-### 🔫 TAIWS – AI Weapon Platform  
+### TAIWS – AI Weapon Platform  
 > **Tech:** PyTorch · CUDA · OpenCV · Jetson Nano  
 - Developed ML models for **real-time target detection** with 40% faster inference.  
 - Integrated with embedded systems for **autonomous decision-making**.  
