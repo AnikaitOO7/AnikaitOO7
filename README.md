@@ -38,7 +38,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,opencv,docker,aws,linux,git,arduino,raspberrypi,vscode,idea&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,opencv,docker,aws,linux,git,raspberrypi,vscode,idea&theme=dark&perline=12" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/NVIDIA-CUDA_&_TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" height="30"/>
