@@ -1,59 +1,68 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c003e&height=280&section=header&text=ANIKAIT%20SINGH&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=00ffea&desc=SYSTEM_BREACH_DETECTED...%20ACCESS_GRANTED&descAlignY=65&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:00d2ff&height=240&section=header&text=Anikait%20Singh&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20Developer%20%7C%20Defense%20Systems%20%7C%20Edge%20Computing&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=800&lines=LOADING_PROFILE:_Mission_Profile...;%3E+CURRENT_ROLE:+Software_Developer_@_Vir_Innovations;%3E+CLEARANCE:+Defense_Tech_+%26_+Autonomous_Systems;%3E+SPECIALTY:+Computer_Vision_+%7C+_Edge_AI_+%7C+_GenAI;%3E+HARDWARE:+NVIDIA_Jetson_+%7C+_RPi_+%7C+_Custom_Drones;STATUS:+OPERATIONAL..._READY_TO_DEPLOY" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=System_Status%3A+ONLINE;Mission%3A+Architecting+Autonomous+Defense+Systems;Deploying%3A+Computer+Vision+on+Edge+Devices;Target%3A+High-Performance+AI" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/anikait-singh007">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="mailto:anikait7298@gmail.com">
-    <img src="https://img.shields.io/badge/ENCRYPTED_MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
   <a href="https://github.com/AnikaitOO7">
-    <img src="https://img.shields.io/badge/GITHUB_MAIN-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
 </div>
 
 <br />
 
----
-
-### ☢️ WEAPONRY & TOOLS
-
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,opencv,docker,aws,linux,git,arduino,raspberrypi,vscode,idea,unreal&theme=dark&perline=14" />
-  </a>
-  
-  <br><br>
-  
-  <img src="https://img.shields.io/badge/NVIDIA-CUDA_ACCELERATION-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_AGENTS-LANGCHAIN_RAG-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/EDGE_COMPUTE-JETSON_ORIN-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+  <br>
+  <h3>⚡ Operational Brief</h3>
+  <p width="600px">
+    I am an <b>AI Engineer</b> specializing in <b>Defense Technology</b> and <b>High-Performance Computing</b>. 
+    Currently accelerating real-time inference at <b>Vir Innovations</b> and formerly architecting weapon tracking systems for the <b>Ministry of Defence (MoD)</b>.
+  </p>
 </div>
 
 ---
 
-### 🚀 ACTIVE MISSIONS
+### 🛠️ The Tech Arsenal
 
-| 📂 **CODENAME** | 🎯 **TARGET OBJECTIVE** | ⚡ **SYSTEM PERFORMANCE** |
-| :--- | :--- | :--- |
-| **🔫 [PRAGYASTRA](https://github.com/AnikaitOO7)** | **Defense AI (MoD)**<br>Autonomous weapon tracking. | ✅ **95% Accuracy** (Live)<br>⚡ **40% Speed Boost** (CUDA) |
-| **🤖 [RAG_BOT_V2](https://github.com/AnikaitOO7)** | **GenAI Intelligence**<br>Dual-Model Doc Analysis. | ✅ **Gemini + GPT-4**<br>🗣️ **Voice Feedback** Enabled |
-| **👓 [IMMERSE.VR](https://github.com/AnikaitOO7)** | **Simulation**<br>Google Challenge VR Tour. | ✅ **Unreal Engine 5**<br>🧠 **NLP NPC** Integration |
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,opencv,docker,aws,linux,git,arduino,raspberrypi,vscode,idea&theme=dark&perline=12" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/NVIDIA-CUDA_&_TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/GenAI-LangChain_&_RAG-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Engine-Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Edge-Jetson_Orin-76B900?style=flat-square&logo=nvidia&logoColor=white" height="30"/>
+</div>
 
 ---
 
-### 📊 DATA_STREAM_ANALYTICS
+### 🚀 Classified Projects
+
+| **Protocol** | **Mission** | **Impact** |
+| :--- | :--- | :--- |
+| 🛡️ **Defense** | **[Pragyastra (TAIWS)](https://github.com/AnikaitOO7)** | **95% Accuracy** targeting system for Indian Army. |
+| 🧠 **GenAI** | **[RAG Bot Premium](https://github.com/AnikaitOO7)** | Dual-Model LLM (Gemini + GPT) for document analysis. |
+| 🕶️ **AR / VR** | **[Immerse.VR](https://github.com/AnikaitOO7)** | **Google Solution Challenge** selected Virtual Campus Tour. |
+
+---
+
+### 📊 Satellite Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnikaitOO7&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnikaitOO7&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%" />
 </div>
 
 <br>
@@ -62,10 +71,10 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AnikaitOO7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=39FF14&icon_color=39FF14&text_color=ffffff&bg_color=000000" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AnikaitOO7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaitOO7&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css&title_color=d600ff&icon_color=d600ff&text_color=ffffff&bg_color=000000" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaitOO7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" height="180" />
       </td>
     </tr>
   </table>
@@ -74,7 +83,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2c003e&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:00d2ff&height=100&section=footer" width="100%" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=AnikaitOO7&label=NETRUNNERS_LOGGED&style=for-the-badge&color=d600ff" />
+  <img src="https://komarev.com/ghpvc/?username=AnikaitOO7&label=PROFILE+VISITORS&style=for-the-badge&color=blue" />
 </div>
