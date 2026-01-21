@@ -1,19 +1,3 @@
-Here is a **maximum-impact, analytics-heavy version** of your README.
-
-I have redesigned the layout to fix the **Trophies and Streak** issues by adjusting the URL parameters and organizing them into a clean "Dashboard" grid.
-
-### ⚠️ Critical Fix for "Not Showing" Issues
-
-If the images below appear broken or empty on your profile, it is almost **100% likely** that your username is misspelled in the code.
-
-* **Check:** Is your username `AnikaitOO7` (Letter O) or `Anikait007` (Zero)?
-* **Action:** I have used `AnikaitOO7` below. If your username uses zeros, you **must** Find & Replace `AnikaitOO7` with `Anikait007` in the code below.
-
----
-
-### Copy this code:
-
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=800&lines=🤖+AI+Engineer+%7C+Computer+Vision+Specialist;🚀+Building+Defense+Systems+%26+Smart+Weaponry;🧠+Generative+AI+%26+Edge+Computing+Expert;⚡+Optimizing+Inference+with+TensorRT+%26+CUDA" alt="Typing SVG" />
 </div>
@@ -124,5 +108,3 @@ If the images below appear broken or empty on your profile, it is almost **100% 
   <br>
   <img src="https://visitcount.itsvg.in/api?id=AnikaitOO7&label=Profile+Views&color=12&icon=5&pretty=true" />
 </div>
-
-```
