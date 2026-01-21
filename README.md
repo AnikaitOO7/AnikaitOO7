@@ -68,21 +68,16 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnikaitOO7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  
-  <img src="https://streak-stats.demolab.com?user=AnikaitOO7&theme=tokyonight&hide_border=true" height="180" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaitOO7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" height="130" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnikaitOO7&theme=tokyonight&no-frame=true&margin-w=10" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=AnikaitOO7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaitOO7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" height="180" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -90,5 +85,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:00d2ff&height=100&section=footer" width="100%" />
   <br>
-  <img src="https://visitcount.itsvg.in/api?id=AnikaitOO7&label=Profile%20Visitors&color=3&icon=5&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=AnikaitOO7&label=PROFILE+VISITORS&style=for-the-badge&color=blue" />
 </div>
