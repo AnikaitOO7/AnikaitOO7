@@ -27,8 +27,9 @@
   <br>
   <h3>⚡ Operational Brief</h3>
   <p width="600px">
-    I am an <b>AI Engineer</b> specializing in <b>Defense Technology</b> and <b>High-Performance Computing</b>. 
-    Currently accelerating real-time inference at <b>Vir Innovations</b> and formerly architecting weapon tracking systems for the <b>Ministry of Defence (MoD)</b>.
+   <b>AI Developer<b> specializing in <b>Computer Vision<b> and <b>Generative AI<b>, with deep expertise in architecting low-latency inference pipelines on <b>Edge devices<b> using
+   <b>TensorRT, CUDA, and C++<b>, and a proven record of delivering <b>autonomous tracking systems<b> for the defense sector along with scalable <b>RAG<b> based <b>LLM<b>
+   solutions for <b>complex production environments<b>.
   </p>
 </div>
 
