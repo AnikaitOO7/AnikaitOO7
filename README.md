@@ -1,95 +1,92 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=SYSTEM_STATUS%3A+ONLINE...;%3E+INITIATING+AI_DEFENSE_PROTOCOLS;%3E+LOADING+COMPUTER_VISION_MODULES;%3E+WELCOME+TO+ANIKAIT'S+TERMINAL" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Anikait%20Singh&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20Developer%20%7C%20Defense%20Systems%20%7C%20Generative%20AI&descAlignY=60&descAlign=50" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=System_Override%3A+Initiating...;Target%3A+Low-Latency+Computer+Vision;Mission%3A+Deploying+AI+on+Edge+Devices;Status%3A+Building+Autonomous+Defense+Tech" alt="Typing SVG" />
+  </a>
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/anikait-singh007">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="mailto:anikait7298@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
   <a href="https://github.com/AnikaitOO7">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <code>
-    <font color="#00F0FF">const</font> <font color="#FF0055">Engineer</font> = {<br/>
-    &nbsp;&nbsp;Name: <font color="#F0F">"Anikait Singh"</font>,<br/>
-    &nbsp;&nbsp;Role: <font color="#F0F">"AI & Defense Tech Specialist"</font>,<br/>
-    &nbsp;&nbsp;Mission: <font color="#F0F">"Architecting Autonomous Systems"</font><br/>
-    };
-  </code>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" />
 </div>
 
-<br />
+### 👨‍💻 Mission Profile
+> **AI Developer** specializing in **Computer Vision** and **Generative AI**.  
+> Currently engineering high-performance inference pipelines at **Vir Innovations** and previously developed autonomous weapon tracking systems for the **Ministry of Defence (MoD)**. My code runs where it matters: on the Edge.
 
 ---
 
-### ☢️ TECH INTERFACE
+### 🛠️ The Armory (Tech Stack)
 
 <div align="center">
-  <h4>// CORE_INTELLIGENCE</h4>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-</div>
-
-<div align="center">
-  <h4>// DEPLOYMENT_&_HARDWARE</h4>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-</div>
-
-<div align="center">
-  <h4>// LANGUAGES</h4>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,opencv,docker,aws,linux,git,arduino,raspberrypi,vscode,idea&theme=dark&perline=10" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/NVIDIA-CUDA_&_TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/GenAI-LangChain_&_RAG-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Engine-Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Edge-Jetson_Orin-76B900?style=flat-square&logo=nvidia&logoColor=white" height="35"/>
 </div>
 
 ---
 
-### 📊 DATA_ANALYTICS_DASHBOARD
+### 🚀 Deployed Operations
+
+| 📂 **Project** | 🛠️ **Tech Core** | 🎯 **Mission Impact** |
+| :--- | :--- | :--- |
+| **🔫 [Pragyastra (TAIWS)](https://github.com/AnikaitOO7)** | `PyTorch` `CUDA` `Jetson` | **95% Accuracy** AI weapon system for Indian Army. Reduced latency by **26ms**. |
+| **🤖 [RAG Bot Premium](https://github.com/AnikaitOO7)** | `LangChain` `Gemini` `GPT` | Context-aware LLM for document analysis with **Voice Response**. |
+| **👓 [Immerse.VR](https://github.com/AnikaitOO7)** | `Unreal` `Blender` `NLP` | **Google Solution Challenge** selected Virtual Campus Tour. |
+| **📱 [Fidentity](https://github.com/AnikaitOO7)** | `Flutter` `Firebase` `CNN` | Biometric Auth system reducing login times by **30%**. |
+
+---
+
+### 📊 Satellite Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnikaitOO7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" height="180" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=AnikaitOO7&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000" height="180" alt="streak" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=AnikaitOO7&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://streak-stats.demolab.com?user=AnikaitOO7&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaitOO7&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnikaitOO7&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaitOO7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook" height="140" />
+  <h4>🏆 Achievements Unlocked</h4>
+  <img src="https://github-profile-trophy.vercel.app/?username=AnikaitOO7&theme=radical&no-frame=true&margin-w=15&row=1" />
 </div>
 
 ---
 
-### 🚀 FEATURED_MISSIONS
-
-| **[ACCESS_GRANTED] Project** | **[TYPE] Class** | **[STATUS] Outcome** |
-|:---|:---|:---|
-| 🔫 **[Pragyastra (TAIWS)](https://github.com/AnikaitOO7)** | 🛡️ Defense AI | **95% Accuracy** targeting system for Indian Army. |
-| 🤖 **[RAG Bot Premium](https://github.com/AnikaitOO7)** | 🧠 GenAI | **Dual-Model LLM** (Gemini + GPT) for document analysis. |
-| 🕶️ **[Immerse.VR](https://github.com/AnikaitOO7)** | 👓 AR/VR | **Google Solution Challenge** selected Virtual Campus. |
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <br>
+  <img src="https://visitcount.itsvg.in/api?id=AnikaitOO7&label=Profile%20Visitors&color=12&icon=5&pretty=true" />
 </div>
