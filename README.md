@@ -268,7 +268,7 @@ STATUS       : ██████████ AWARDED
 ║  💻  github.com/AnikaitOO7                          ║
 ╠══════════════════════════════════════════════════════╣
 ║  OPEN TO:  Defense AI  ·  Edge Deployments           ║
-║            LLM Systems  ·  Research Collabs           ║
+║            LLM Systems  ·  Research Collabs          ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
