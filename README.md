@@ -327,6 +327,9 @@ Model Institute of Engineering and Technology, Jammu<br>
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!--   SECTION 06 — MISSION METRICS                             -->
+<!--   assets/mission-metrics.svg  → hand-built animated HUD    -->
+<!--   profile/*.svg               → generated daily by          -->
+<!--                                 .github/workflows/metrics.yml -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -335,32 +338,35 @@ Model Institute of Engineering and Technology, Jammu<br>
 
 </div>
 
-<!-- TROPHIES -->
+<!-- ANIMATED HUD (static file in this repo — never depends on a third-party API) -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AnikaitOO7&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,MultiLanguage" width="100%" />
+<img src="./assets/mission-metrics.svg" width="100%" alt="Mission metrics: inference latency 42 ms to 25 ms, +35% detection accuracy, 370K+ image dataset, +45% automation efficiency, 90%+ RGB and 75% NIR/MWIR field accuracy" />
 </div>
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
+<!-- CONTRIBUTION SNAKE — regenerated daily by the workflow -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnikaitOO7&bg_color=0D1117&color=00D2FF&line=0077B5&point=00D2FF&area=true&area_color=001a33&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake-light.svg" />
+  <img src="./profile/snake-dark.svg" width="100%" alt="GitHub contribution grid snake animation" />
+</picture>
 </div>
 
 <br/>
 
-<!-- STATS ROW -->
+<!-- STATS CARDS — regenerated daily by the workflow (no runtime API calls, so they can't fail to load) -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnikaitOO7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=00d2ff&icon_color=00d2ff&text_color=ffffff&bg_color=0d1117&rank_icon=github&show=reviews,discussions_started" height="185" />
+<img src="./profile/stats.svg" height="185" alt="GitHub stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikaitOO7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&title_color=00d2ff&text_color=ffffff&bg_color=0d1117" height="185" />
+<img src="./profile/top-langs.svg" height="185" alt="Top languages" />
 </div>
 
 <br/>
 
-<!-- STREAK -->
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=AnikaitOO7&theme=tokyonight&hide_border=true&background=0d1117&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff&sideLabels=00d2ff&dates=4a9eff&stroke=001a33" width="56%" />
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" width="56%" alt="GitHub contribution streak" /></a>
 </div>
 
 <br/>
